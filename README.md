@@ -1,4 +1,6 @@
 core
 ====
 
-Core PHP functionalities
+Core PHP functionalities:
+ - autoloader
+ - service container (dependency injection container)
